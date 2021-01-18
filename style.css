@@ -57,7 +57,7 @@ button{
 }
 #output{
     border: 1px solid black;
-    height: 10vh;
+    height: auto;
     width: 80%;
     margin: 3rem 3.5rem;
     padding: 1rem;
